@@ -1,0 +1,4 @@
+#share_to_social_bookmarking {text-decoration: none;}
+#share_to_social_bookmarking a{text-decoration: none;}
+#share_to_social_bookmarking img {margin: 0 3px; opacity:0.8; width: 24px; height: 24px; min-height: 24px; max-width: 24px;}
+#share_to_social_bookmarking img:hover {opacity:1.0}
